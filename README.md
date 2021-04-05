@@ -5,7 +5,6 @@ The QRS complex is the combination of three of the graphical deflections seen 
 # How Pan Tomkins Algorithm Works:
 The Pan–Tompkins algorithm applies a series of filters to highlight the frequency content of this rapid heart depolarization and removes the background noise. Then, it squares the signal to amplify the QRS contribute. Finally, it applies adaptive thresholds to detect the peaks of the filtered signal. 
 
-
 # What is Heart Rate:
 Heart rate :It is computed as a function of the distance in seconds between two consecutive QRS complexes
 
@@ -26,3 +25,5 @@ QRS Width :It is computed as a function of the distance in seconds of a QRS comp
  Result (Avg. Heart Rate): 87
  ---------------------------------------
 
+# Source of Dataset:
+http://people.ucalgary.ca/~ranga/enel563/SIGNAL_DATA_FILES/
