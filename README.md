@@ -1,6 +1,6 @@
 # Pan-Tomkins-Method-for-QRS-Detection :white_check_mark:
 # What is QRS:
-The QRS complex is the combination of three of the graphical deflections seen on a typical electrocardiogram (ECG). It is usually the central and most visually obvious part of the tracing; in other words, it's the main spike seen on an ECG line. It corresponds to the depolarization of the right and left ventricles of the human heart and contraction of the large ventricular muscles
+The QRS complex is the combination of three of the graphical deflections seen on a typical electrocardiogram (ECG). It is usually the central and most visually obvious part of the tracing; in other words, it's the main spike seen on an ECG line. It corresponds to the depolarization of the right and left ventricles of the human heart and contraction of the large ventricular muscles<br /> 
 ![](QRS%20FOTO.png)
 # How Pan Tomkins Algorithm Works:
 The Pan–Tompkins algorithm applies a series of filters to highlight the frequency content of this rapid heart depolarization and removes the background noise. Then, it squares the signal to amplify the QRS contribute. Finally, it applies adaptive thresholds to detect the peaks of the filtered signal. 
